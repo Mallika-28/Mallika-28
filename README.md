@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40" />
@@ -18,7 +18,7 @@ A 4th-year student pursuing Bachelors of engineering in Computer science.
 </p>
 <br><br><br>
 
-<h4 align= "center">📫 Email: **mallikapunj11@gmail.com**</h4>
+<p>📫 Email: **mallikapunj11@gmail.com**</p>
 <br>
 <hr>
 
