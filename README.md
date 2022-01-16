@@ -13,7 +13,7 @@ A 4th-year student pursuing Bachelors of engineering in Computer science.
 
 
 <a align= "center" href="https://github.com/Mallika-28">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
+<img alt= "stats card" height="250px" width="400" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 <img align="right" height="350" width="400" src="https://dribbble.com/shots/15400960" /> </a>
 </p>
 <br><br><br>
