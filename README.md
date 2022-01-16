@@ -6,10 +6,13 @@
 <h5 align="center">
 A 4th-year student pursuing Bachelors of engineering in Computer science.
 </h5>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<p>
+<img align="right" height="350" width="400" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
+</p>
 
 📫 Email: **mallikapunj11@gmail.com**
 <br><br>
