@@ -25,7 +25,7 @@ A 4th-year student pursuing Bachelors of engineering in Computer science. I am a
 </h5>
 <a align= "center" href="https://github.com/Mallika-28">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallika-28&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&count_private=true&theme=radical&show_icons=true" />
 
