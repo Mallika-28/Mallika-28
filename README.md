@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Mallika-28/Mallika-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
