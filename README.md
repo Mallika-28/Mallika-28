@@ -5,10 +5,10 @@
          width="40" />
 </h1>
 
-
+<!-- 
 <h3 align="center">
 A 4th-year student pursuing Bachelors of engineering in Computer science.
-</h3>
+</h3> -->
 
 
 
@@ -18,15 +18,8 @@ A 4th-year student pursuing Bachelors of engineering in Computer science.
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<!-- 
-<div>
-<img align="right" height="350" width="400" src="https://github-readme-stats.vercel.app/api?username=Mallika-28&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-
-</div> -->
-
-📫 Email: **mallikapunj11@gmail.com**
+<h3 align= "center">📫 Email: **mallikapunj11@gmail.com**</h3>
 <br><br>
 <hr>
 
