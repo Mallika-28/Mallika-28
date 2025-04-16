@@ -26,7 +26,6 @@ A 4th-year student pursuing Bachelor of engineering in Computer science.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mallikapunj/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="mallikapunj" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://instagram.com/mallikapunj/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mallikapunj" height="50" width="50" /></a>
 </p>
 </div>
 
